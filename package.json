@@ -1,0 +1,19 @@
+{
+  "name": "lesson9",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "lesson9",
+	"start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shalahur"
+  },
+  "author": "Polash",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
